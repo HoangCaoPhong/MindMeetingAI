@@ -1,0 +1,50 @@
+# --- Python cache ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Virtual environment ---
+.venv/
+env/
+venv/
+
+# --- Environment variables (API keys, secrets) ---
+.env
+.env.local
+*.secret
+*.key
+*.token
+
+# --- VSCode settings ---
+.vscode/
+.vscode/*
+*.code-workspace
+
+# --- OS junk files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+logs/
+*.log
+
+# --- Model caches ---
+/models/
+/data/
+/cache/
+*.bin
+*.pt
+*.pth
+
+# --- Jupyter Notebooks Checkpoints ---
+.ipynb_checkpoints/
+
+# --- Ignore build artifacts ---
+dist/
+build/
+
+# --- Node.js (frontend) ---
+node_modules/
+npm-debug.log
+yarn-error.log
