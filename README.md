@@ -203,21 +203,7 @@ Dự án sử dụng giấy phép MIT.
 
 ---
 
-# ✨ Hoàn tất!
-
-README này đáp ứng:
-✔ Chuẩn quốc tế
-✔ Song ngữ Anh – Việt
-✔ Ngắn gọn, chuyên nghiệp
-✔ Phù hợp Academic + Industry
-✔ Dễ dùng cho GitHub & báo cáo
-
----
-
-Phong muốn chị tiếp tục bước nào tiếp theo?
-
-1️⃣ **Tạo cấu trúc backend FastAPI trong repo**
-2️⃣ **Tạo branch feature/algo2 và viết thuật toán đầy đủ**
+**Tạo branch feature/algo2 và viết thuật toán đầy đủ**
 3️⃣ **Viết flowchart Mermaid**
 4️⃣ **Viết pseudocode chuẩn Algo 2**
 
