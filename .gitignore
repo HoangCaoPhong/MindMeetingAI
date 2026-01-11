@@ -34,6 +34,7 @@ pj.txt
 /models/
 /data/
 /cache/
+.chroma/
 *.bin
 *.pt
 *.pth
