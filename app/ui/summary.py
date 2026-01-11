@@ -7,6 +7,7 @@ def summary_section():
         return
 
     if st.button("Generate Meeting Summary"):
+    
         with st.spinner("AI đang phân tích cuộc họp..."):
             summary = multi_layer_summary(st.session_state["transcript"])
             st.session_state["summary"] = summary

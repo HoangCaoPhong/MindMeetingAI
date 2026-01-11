@@ -46,6 +46,8 @@ pip install -r requirements.txt
 ## ## **4. Running the Server**
 
 ```bash
+python -m streamlit run app/main.py
+
 uvicorn app.main:app --reload
 ```
 
